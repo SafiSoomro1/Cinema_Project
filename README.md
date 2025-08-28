@@ -1,7 +1,3 @@
-Got you 😎 — here’s a fun **README description** you can drop straight into your `README.md` for your Cinema game:
-
----
-
 # 🎬 Cinema with Friends
 
 Welcome to **Cinema with Friends** — a small Python terminal game where you and a friend can step into a virtual cinema, argue about movies, and finally pick one to watch (or rage quit 😅).
